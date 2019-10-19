@@ -1,0 +1,15 @@
+a='hello world'
+b='sai'
+print(a)
+print(len(a))
+print(type(a))
+print(a[:2])
+print(a.lower())
+print(a.upper())
+print(a.count('l'))
+print(a.find('a'))
+print(a.replace('world','rama'))
+print('a+','+b.welcome')
+print(f'a+b')
+print(dir(a))
+print(help(str))
